@@ -13,10 +13,10 @@ Layers of application:
 . Aspect- PerformanceTiming Advice
 . Integration Test
 
-All neccesary jar files are included in lib folder.
+
 Note:
 The project could be made of production quality if all the unneccesary files are simply deleted and comments are cleaned up.
-This project is a great resource for understanding different concepts and techniques in Spring. Since it is implemented entirely using interfaces, and resources are injected or wired through xml to avoid coupling, it is perfectly scalable project as well. There are 4 different versions of xml configuration file for either using hard-wired beans, autowired configuration, annotated beans with JPA and annotated beans with hibernate. Wherever needed it is heavily commented to clarify the concepts and usage of certain Spring tools.
+This project is a great resource for understanding different concepts and techniques in Spring. Since it is implemented entirely using interfaces, and resources are injected or wired through xml to avoid coupling, it is perfectly scalable project as well. There are 4 different versions of xml configuration file for either using hard-wired beans, autowired configuration, annotated beans with JPA and annotated beans with hibernate. Wherever needed it is heavily commented to clarify the concepts and usage of certain Spring tools. All neccesary jar files are included in lib folder.
 
 
 
