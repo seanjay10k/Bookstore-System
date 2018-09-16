@@ -11,7 +11,7 @@ Layers of application:
 . Services
 . Domain
 . Aspect- PerformanceTiming Advice
-. Integration Test
+. Integration Testing
 
 
 Note:
