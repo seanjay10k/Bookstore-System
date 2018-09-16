@@ -15,7 +15,7 @@ Layers of application:
 
 
 Note:
-This project is a great resource for understanding different concepts and techniques in Spring. Since it is implemented entirely using interfaces, and resources are injected or wired through xml to avoid coupling, it is perfectly scalable project as well. There are 4 different versions of xml configuration file for either using hard-wired beans, autowired configuration, annotated beans with JPA and annotated beans with hibernate. Wherever needed it is heavily commented to clarify the concepts and usage of certain Spring tools. All neccesary jar files are included in lib folder.
+This project is a great resource for understanding different concepts and techniques in Spring. Since it is implemented entirely using interfaces, and resources are injected or wired through xml to avoid coupling, it is perfectly scalable project as well. There are different versions of xml configuration file for either using hard-wired beans, autowired configuration, annotations. Wherever needed it is heavily commented to clarify the concepts and usage of certain Spring tools. All neccesary jar files are included in lib folder.
 
 
 
